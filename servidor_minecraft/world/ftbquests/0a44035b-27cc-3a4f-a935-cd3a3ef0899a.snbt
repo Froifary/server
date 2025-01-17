@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0a44035b27cc3a4fa935cd3a3ef0899a"
+	name: "Froi07#0a44035b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
