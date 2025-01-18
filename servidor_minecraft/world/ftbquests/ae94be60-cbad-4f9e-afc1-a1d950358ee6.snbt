@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "ae94be60cbad4f9eafc1a1d950358ee6"
+	name: "ElMendaBrr#ae94be60"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1737220696715L
+		2574E7CF699D5B45: 1737220696715L
+		0470194500CBE26C: 1737220696715L
+		0000000000000001: 1737220696715L
+	}
+	completed: {
+		2574E7CF699D5B45: 1737220696722L
+		0470194500CBE26C: 1737220696722L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

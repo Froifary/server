@@ -1,0 +1,17 @@
+{
+	id: "ae94be60-cbad-4f9e-afc1-a1d950358ee6"
+	type: "player"
+	player_name: "ElMendaBrr"
+	ranks: {
+		ae94be60-cbad-4f9e-afc1-a1d950358ee6: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ElMendaBrr"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E6FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

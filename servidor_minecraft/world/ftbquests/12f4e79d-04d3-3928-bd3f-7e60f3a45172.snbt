@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "12f4e79d04d33928bd3f7e60f3a45172"
+	name: "ElMendaBrr#12f4e79d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

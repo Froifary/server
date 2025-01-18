@@ -1,0 +1,17 @@
+{
+	id: "9431dde2-d73c-47e9-9271-34a1e126c31b"
+	type: "player"
+	player_name: "Froi07"
+	ranks: {
+		9431dde2-d73c-47e9-9271-34a1e126c31b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Froi07"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59DFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

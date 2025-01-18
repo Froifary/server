@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "9431dde2d73c47e9927134a1e126c31b"
+	name: "Froi07#9431dde2"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1737220729114L
+		2574E7CF699D5B45: 1737220729114L
+		0470194500CBE26C: 1737220729114L
+		0000000000000001: 1737220729114L
+	}
+	completed: {
+		2574E7CF699D5B45: 1737220729115L
+		0470194500CBE26C: 1737220729115L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
