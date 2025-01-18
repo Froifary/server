@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 17:45:36 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-01-18 17:35:03 +0000"
@@ -32,6 +38,12 @@
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-01-18 17:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-18 17:42:26 +0000"
     },
     "done": true
   },
@@ -431,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 17:45:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-01-18 17:19:35 +0000"
@@ -818,6 +836,12 @@
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-18 17:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-18 17:42:26 +0000"
     },
     "done": true
   },
@@ -1524,6 +1548,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 17:45:36 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_flower_box": {
     "criteria": {
       "has_slab": "2025-01-18 17:37:26 +0000"
@@ -1653,6 +1683,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-01-18 17:26:37 +0000",
+      "scrubland": "2025-01-18 17:47:11 +0000",
       "old_growth_woodland": "2025-01-18 17:28:26 +0000",
       "orchard": "2025-01-18 17:18:01 +0000",
       "mediterranean_forest": "2025-01-18 17:26:28 +0000",
@@ -1708,6 +1739,12 @@
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2025-01-18 17:19:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-01-18 17:41:40 +0000"
     },
     "done": true
   },
@@ -1774,6 +1811,12 @@
   "another_furniture:recipes/spruce_shutter": {
     "criteria": {
       "has_slab": "2025-01-18 17:37:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-18 17:42:59 +0000"
     },
     "done": true
   },
@@ -2551,6 +2594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-18 17:42:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_taburet": {
     "criteria": {
       "has_stick": "2025-01-18 17:19:35 +0000"
@@ -2665,6 +2714,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-18 17:41:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-01-18 17:37:26 +0000"
@@ -2758,6 +2813,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.betternether.blue_obsidian": "2025-01-18 17:22:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-01-18 17:42:59 +0000"
     },
     "done": true
   },
@@ -3271,6 +3332,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-18 17:41:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-01-18 17:19:33 +0000"
@@ -3403,6 +3470,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-01-18 17:47:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-01-18 17:33:12 +0000"
@@ -3484,6 +3557,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-18 17:38:17 +0000",
+      "minecraft:creeper": "2025-01-18 17:45:30 +0000",
       "minecraft:witch": "2025-01-18 17:34:53 +0000",
       "minecraft:zombie": "2025-01-18 17:38:02 +0000"
     },
@@ -3528,6 +3602,12 @@
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2025-01-18 17:18:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-18 17:41:40 +0000"
     },
     "done": true
   },
@@ -4011,6 +4091,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sconce": {
+    "criteria": {
+      "has_torch": "2025-01-18 17:41:40 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
     "criteria": {
       "has_item": "2025-01-18 17:34:58 +0000"
@@ -4038,6 +4124,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-01-18 17:28:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-01-18 17:42:59 +0000"
     },
     "done": true
   },
@@ -4278,6 +4370,12 @@
   "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
     "criteria": {
       "has_item": "2025-01-18 17:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-18 17:45:36 +0000"
     },
     "done": true
   },

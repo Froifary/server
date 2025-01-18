@@ -83,6 +83,7 @@
       "floodplain": "2025-01-18 17:28:08 +0000",
       "orchard": "2025-01-18 17:16:45 +0000",
       "redwood_forest": "2025-01-18 17:17:06 +0000",
+      "rocky_rainforest": "2025-01-18 17:46:45 +0000",
       "grassland": "2025-01-18 17:26:19 +0000",
       "rainforest": "2025-01-18 17:37:25 +0000"
     },
@@ -3468,6 +3469,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-18 17:36:00 +0000"
@@ -3486,6 +3493,18 @@
     },
     "done": true
   },
+  "hearth_and_home:recipes/thatch": {
+    "criteria": {
+      "has_item": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-01-18 17:47:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-01-18 17:32:23 +0000"
@@ -3495,6 +3514,18 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-18 17:38:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
+  "incubation:recipes/decorations/hay_nest": {
+    "criteria": {
+      "has_wheat": "2025-01-18 17:45:06 +0000"
     },
     "done": true
   },
@@ -3546,6 +3577,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-01-18 17:41:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-01-18 17:37:32 +0000"
@@ -3558,6 +3595,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:fortress_jungle": {
+    "criteria": {
+      "in_jungle_fortress": "2025-01-18 17:47:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2025-01-18 17:38:03 +0000"
@@ -3567,6 +3616,18 @@
   "netherexp:recipes/bone_blocks/bone_rod": {
     "criteria": {
       "has_item": "2025-01-18 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-18 17:41:56 +0000"
     },
     "done": true
   },
@@ -3600,9 +3661,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-18 17:46:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-18 17:46:12 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/bone_quiver": {
     "criteria": {
       "has_bone": "2025-01-18 17:32:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-18 17:45:06 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-01-18 17:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-18 17:46:12 +0000"
     },
     "done": true
   },
