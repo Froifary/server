@@ -3956,3 +3956,61 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Jan2025 17:22:19.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMendaBrr has made the advancement [Ice Bucket Challenge]
 [18Jan2025 17:24:15.036] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_mediterranean], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga]] from pos BlockPos{x=725, y=67, z=-507}
 [18Jan2025 17:24:30.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Stone Age]
+[18Jan2025 17:24:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMendaBrr has made the advancement [Who You Gonna Call?]
+[18Jan2025 17:24:58.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Getting an Upgrade]
+[18Jan2025 17:26:00.848] [pool-11-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach]] from pos BlockPos{x=693, y=71, z=-821}
+[18Jan2025 17:26:02.336] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[18Jan2025 17:26:02.504] [Worker-Main-1/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 168ms
+[18Jan2025 17:27:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMendaBrr has made the advancement [Cobweb Entanglement]
+[18Jan2025 17:28:33.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Who You Gonna Call?]
+[18Jan2025 17:29:02.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Diamonds!]
+[18Jan2025 17:30:29.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 was slain by Spider
+[18Jan2025 17:30:29.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Your First Grave]
+[18Jan2025 17:30:29.791] [Server thread/INFO] [tombstone/]: The player Froi07 has successfully been saved
+[18Jan2025 17:30:46.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Froi07 was kicked for floating too long!
+[18Jan2025 17:30:46.420] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Froi07 lost connection: Disconnected
+[18Jan2025 17:30:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 left the game
+[18Jan2025 17:30:46.420] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9431dde2-d73c-47e9-9271-34a1e126c31b
+[18Jan2025 17:30:46.466] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Jan2025 17:30:50.605] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Froi07 is 9431dde2-d73c-47e9-9271-34a1e126c31b
+[18Jan2025 17:30:56.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Froi07[/127.7.89.194:37829] logged in with entity id 8272 at (298.93451093671223, 98.32476691508852, -368.44899848920926)
+[18Jan2025 17:30:56.304] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Froi07
+[18Jan2025 17:30:56.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Froi07
+[18Jan2025 17:30:56.305] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Froi07
+[18Jan2025 17:30:56.306] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Froi07
+[18Jan2025 17:30:56.308] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Froi07
+[18Jan2025 17:30:56.310] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Froi07
+[18Jan2025 17:30:56.311] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Froi07
+[18Jan2025 17:30:56.323] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Jan2025 17:30:56.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 joined the game
+[18Jan2025 17:30:56.417] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9431dde2-d73c-47e9-9271-34a1e126c31b
+[18Jan2025 17:30:56.420] [Server thread/INFO] [Jade/]: Syncing config to Froi07 (9431dde2-d73c-47e9-9271-34a1e126c31b)
+[18Jan2025 17:30:57.972] [Netty Epoll Server IO #0/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: labellingcontainers:request_taggable_blocks_config_packet
+[18Jan2025 17:30:57.977] [Server thread/INFO] [ping-wheel/]: Channel update: Froi07 -> default
+[18Jan2025 17:30:57.978] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[18Jan2025 17:31:21.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Froi07 was kicked for floating too long!
+[18Jan2025 17:31:21.471] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Froi07 lost connection: Flying is not enabled on this server
+[18Jan2025 17:31:21.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 left the game
+[18Jan2025 17:31:21.471] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9431dde2-d73c-47e9-9271-34a1e126c31b
+[18Jan2025 17:31:28.394] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Froi07 is 9431dde2-d73c-47e9-9271-34a1e126c31b
+[18Jan2025 17:31:36.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@df089d0[id=9431dde2-d73c-47e9-9271-34a1e126c31b,name=Froi07,properties={textures=[com.mojang.authlib.properties.Property@3c910e73]},legacy=false] (/127.7.89.194:48599) lost connection: Disconnected
+[18Jan2025 17:31:39.736] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Froi07 is 9431dde2-d73c-47e9-9271-34a1e126c31b
+[18Jan2025 17:31:44.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Froi07[/127.7.89.194:52697] logged in with entity id 8666 at (298.93451093671223, 84.1252025874862, -368.44899848920926)
+[18Jan2025 17:31:44.414] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Froi07
+[18Jan2025 17:31:44.414] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Froi07
+[18Jan2025 17:31:44.415] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Froi07
+[18Jan2025 17:31:44.416] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Froi07
+[18Jan2025 17:31:44.417] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Froi07
+[18Jan2025 17:31:44.419] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Froi07
+[18Jan2025 17:31:44.419] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Froi07
+[18Jan2025 17:31:44.430] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Jan2025 17:31:44.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 joined the game
+[18Jan2025 17:31:44.520] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9431dde2-d73c-47e9-9271-34a1e126c31b
+[18Jan2025 17:31:44.524] [Server thread/INFO] [Jade/]: Syncing config to Froi07 (9431dde2-d73c-47e9-9271-34a1e126c31b)
+[18Jan2025 17:31:50.950] [Netty Epoll Server IO #2/ERROR] [dev.architectury.networking.forge.NetworkManagerImpl/]: Unknown message ID: labellingcontainers:request_taggable_blocks_config_packet
+[18Jan2025 17:31:50.950] [Server thread/INFO] [ping-wheel/]: Channel update: Froi07 -> default
+[18Jan2025 17:31:50.954] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[18Jan2025 17:32:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set the world spawn point to 354, 74, -127 [0.0]]
+[18Jan2025 17:34:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMendaBrr has made the advancement [Knowledge of Death]
+[18Jan2025 17:34:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMendaBrr has made the advancement [Ambush]
+[18Jan2025 17:34:53.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElMendaBrr has made the advancement [Monster Hunter]
