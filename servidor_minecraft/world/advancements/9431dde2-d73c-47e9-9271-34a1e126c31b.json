@@ -88,7 +88,8 @@
       "redwood_forest": "2025-01-18 17:17:06 +0000",
       "rocky_rainforest": "2025-01-18 17:46:45 +0000",
       "grassland": "2025-01-18 17:26:19 +0000",
-      "rainforest": "2025-01-18 17:37:25 +0000"
+      "rainforest": "2025-01-18 17:37:25 +0000",
+      "crag": "2025-01-19 13:15:36 +0000"
     },
     "done": false
   },
@@ -2203,6 +2204,8 @@
     "criteria": {
       "minecraft:bamboo_jungle": "2025-01-18 17:36:40 +0000",
       "minecraft:beach": "2025-01-18 17:27:56 +0000",
+      "minecraft:dark_forest": "2025-01-19 13:12:25 +0000",
+      "minecraft:sparse_jungle": "2025-01-19 13:02:26 +0000",
       "minecraft:river": "2025-01-18 17:19:31 +0000",
       "minecraft:lukewarm_ocean": "2025-01-18 17:37:02 +0000",
       "minecraft:forest": "2025-01-19 13:00:23 +0000",
@@ -3871,6 +3874,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_table": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 12:23:23 +0000"
@@ -3883,9 +3898,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-01-19 12:46:08 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-19 13:07:06 +0000"
     },
     "done": true
   },
@@ -3961,6 +3988,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-19 13:07:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-19 12:26:05 +0000"
@@ -4021,6 +4054,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-19 13:07:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-19 12:46:08 +0000"
@@ -4042,6 +4081,12 @@
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-19 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_dark_oak": {
+    "criteria": {
+      "has_the_recipe": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -4072,6 +4117,12 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-19 13:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-19 13:04:33 +0000"
     },
     "done": true
   },
@@ -4213,9 +4264,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/mangrove_furnace_boat": {
     "criteria": {
       "has_boat": "2025-01-19 13:00:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_drawer": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -4228,6 +4291,12 @@
   "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-19 12:46:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_couch": {
+    "criteria": {
+      "has_dark_oak_couch": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -4252,6 +4321,12 @@
   "supplementaries:recipes/iron_gate": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 12:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_chair": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -4282,6 +4357,12 @@
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-19 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-19 13:04:33 +0000"
     },
     "done": true
   },
@@ -4339,6 +4420,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-19 12:46:08 +0000"
@@ -4357,6 +4444,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-19 13:04:34 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
     "criteria": {
       "has_item": "2025-01-19 12:43:40 +0000"
@@ -4372,6 +4465,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 12:23:23 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -4447,6 +4546,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_plate_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
@@ -4456,6 +4561,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-01-19 12:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-19 13:04:34 +0000"
     },
     "done": true
   },
@@ -4573,6 +4684,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-19 12:56:54 +0000"
@@ -4591,6 +4708,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-01-19 12:35:53 +0000"
@@ -4600,6 +4723,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-01-19 12:23:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_shelf": {
+    "criteria": {
+      "has_dark_oak_shelf": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -4615,6 +4744,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_dining_bench": {
+    "criteria": {
+      "has_dark_oak_dining_bench": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-19 12:42:28 +0000"
@@ -4627,9 +4762,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-01-19 13:00:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-01-19 13:13:59 +0000"
     },
     "done": true
   },
@@ -4657,6 +4804,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-19 13:07:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-19 12:26:05 +0000"
@@ -4675,6 +4828,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_cupboard": {
+    "criteria": {
+      "has_dark_oak_cupboard": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-01-19 12:37:27 +0000"
@@ -4687,6 +4846,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/dark_oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2025-01-19 12:36:46 +0000"
@@ -4696,6 +4861,12 @@
   "minecraft:recipes/building_blocks/crystal_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-01-19 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-01-19 13:07:06 +0000"
     },
     "done": true
   },
@@ -4744,6 +4915,12 @@
   "skilltree:recipes/combat/armored_quiver": {
     "criteria": {
       "has_ingots_iron": "2025-01-19 12:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -4813,6 +4990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-19 12:46:08 +0000"
@@ -4876,6 +5059,12 @@
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-19 13:04:33 +0000"
     },
     "done": true
   },
@@ -4963,6 +5152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-19 13:00:38 +0000"
@@ -5005,6 +5200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-19 13:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-19 12:26:05 +0000"
@@ -5038,6 +5239,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-19 13:04:34 +0000"
     },
     "done": true
   },
@@ -5113,6 +5320,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 12:23:23 +0000"
@@ -5185,6 +5398,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_pillar_trim": {
+    "criteria": {
+      "has_dark_oak_pillar_trim": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
     "criteria": {
       "has_item": "2025-01-19 12:56:54 +0000"
@@ -5203,6 +5422,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-19 13:10:17 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-19 12:49:31 +0000"
@@ -5212,6 +5437,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_side_table": {
+    "criteria": {
+      "has_dark_oak_side_table": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -5233,6 +5464,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_dark_oak": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
@@ -5242,6 +5479,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-19 12:46:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_fancy_bed": {
+    "criteria": {
+      "has_dark_oak_fancy_bed": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -5281,6 +5524,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 13:03:44 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/crystal_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-19 13:00:38 +0000"
@@ -5299,6 +5548,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-01-19 13:03:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 12:43:40 +0000"
@@ -5308,6 +5563,12 @@
   "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2025-01-19 12:36:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -5380,6 +5641,12 @@
   "securitycraft:recipes/misc/keycard_lv2": {
     "criteria": {
       "has_iron": "2025-01-19 12:23:23 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-19 13:04:33 +0000"
     },
     "done": true
   },
@@ -5467,6 +5734,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/dark_oak_support": {
+    "criteria": {
+      "has_plank": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 12:23:23 +0000"
@@ -5494,6 +5767,12 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-01-19 12:35:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-01-19 13:04:33 +0000"
     },
     "done": true
   },
@@ -5695,9 +5974,21 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-01-19 13:14:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/helix_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-01-19 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_bench": {
+    "criteria": {
+      "has_dark_oak_bench": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -5779,6 +6070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blast_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-19 12:56:54 +0000"
@@ -5794,6 +6091,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-19 12:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -5887,6 +6190,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_desk": {
+    "criteria": {
+      "has_dark_oak_desk": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-01-19 12:36:46 +0000"
@@ -5902,6 +6211,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-19 12:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-19 13:04:34 +0000"
     },
     "done": true
   },
@@ -6133,6 +6448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-19 12:43:40 +0000"
@@ -6283,6 +6604,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_nightstand": {
+    "criteria": {
+      "has_dark_oak_nightstand": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-19 12:41:25 +0000"
@@ -6316,6 +6643,12 @@
   "stoneworks:recipes/building_blocks/cracked_diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-19 13:04:33 +0000"
     },
     "done": true
   },
@@ -6445,6 +6778,12 @@
     },
     "done": true
   },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-01-19 13:11:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
@@ -6511,6 +6850,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-01-19 12:23:23 +0000"
@@ -6544,6 +6889,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-19 12:37:27 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/dark_oak_table": {
+    "criteria": {
+      "has_bamboo": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -6583,9 +6934,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/dark_oak_corner_trim": {
+    "criteria": {
+      "has_dark_oak_corner_trim": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-19 12:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -6610,6 +6973,12 @@
   "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-19 12:46:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/dark_oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -6661,6 +7030,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dark_oak_counter": {
+    "criteria": {
+      "has_dark_oak_counter": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/projectile_protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-19 12:56:54 +0000"
@@ -6709,6 +7096,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweeping_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-19 12:56:54 +0000"
@@ -6748,6 +7141,12 @@
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-01-19 12:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-19 13:17:14 +0000"
     },
     "done": true
   },
@@ -6799,9 +7198,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-19 13:04:33 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-19 13:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-19 13:14:02 +0000"
     },
     "done": true
   },
@@ -6853,6 +7270,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/dark_oak_seat": {
+    "criteria": {
+      "has_plank": "2025-01-19 13:17:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-19 12:26:05 +0000"
@@ -6880,6 +7303,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-19 12:35:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-01-19 13:04:33 +0000"
     },
     "done": true
   },

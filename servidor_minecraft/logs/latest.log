@@ -3973,3 +3973,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Jan2025 13:04:28.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Everett'/14366, l='ServerLevel[world]', x=1280.51, y=72.20, z=158.25] died: Everett was slain by Cyclops
 [19Jan2025 13:04:32.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Salvador'/14370, l='ServerLevel[world]', x=1278.08, y=74.20, z=160.29] died: Salvador was slain by Cyclops
 [19Jan2025 13:04:33.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [My Name is Nobody]
+[19Jan2025 13:04:52.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set own game mode to Survival Mode]
+[19Jan2025 13:10:17.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Not Today, Thank You]
+[19Jan2025 13:12:35.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set the time to 1000]
+[19Jan2025 13:17:59.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set the weather to clear]
+[19Jan2025 13:20:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set own game mode to Creative Mode]
