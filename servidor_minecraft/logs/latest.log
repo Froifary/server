@@ -3943,3 +3943,16 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Jan2025 12:24:04.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Isn't It Iron Pick]
 [19Jan2025 12:24:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Suit Up]
 [19Jan2025 12:30:46.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Gave 3000 experience points to Froi07]
+[19Jan2025 12:35:53.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Knowledge of Death]
+[19Jan2025 12:35:53.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Ashes 'n Bones]
+[19Jan2025 12:35:53.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [A Strange Grave Dust]
+[19Jan2025 12:36:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 was killed by Witch using magic
+[19Jan2025 12:36:22.618] [Server thread/INFO] [tombstone/]: The player Froi07 has successfully been saved
+[19Jan2025 12:36:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Teleported Froi07 to 972.500000, 19.000000, -182.500000]
+[19Jan2025 12:36:45.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has reached the goal [Here They Come]
+[19Jan2025 12:36:46.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Ambush]
+[19Jan2025 12:39:02.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=924, y=9, z=-189} BlockPos{x=933, y=10, z=-179}
+[19Jan2025 12:40:28.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 was burnt to a crisp whilst fighting Forgotten
+[19Jan2025 12:40:28.416] [Server thread/INFO] [tombstone/]: The player Froi07 has successfully been saved
+[19Jan2025 12:40:38.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Teleported Froi07 to 971.500000, -13.000000, -163.500000]
+[19Jan2025 12:40:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has reached the goal [This Belongs in a Museum]
