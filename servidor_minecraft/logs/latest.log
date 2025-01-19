@@ -3965,3 +3965,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Jan2025 12:53:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Teleported Froi07 to 1562.500000, 77.000000, -537.500000]
 [19Jan2025 12:53:52.017] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/12095, l='ServerLevel[world]', x=1520.56, y=25.32, z=-556.38, removed=DISCARDED]
 [19Jan2025 12:54:30.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Dragonslayer]
+[19Jan2025 12:55:18.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set own game mode to Survival Mode]
+[19Jan2025 12:59:15.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Sweet Dreams]
+[19Jan2025 13:03:41.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set own game mode to Creative Mode]
+[19Jan2025 13:04:19.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Patrica'/14374, l='ServerLevel[world]', x=1270.64, y=76.03, z=152.19] died, message: 'Patrica was slain by Cyclops'
+[19Jan2025 13:04:19.014] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Patrica'/14374, l='ServerLevel[world]', x=1270.64, y=76.03, z=152.19] died: Patrica was slain by Cyclops
+[19Jan2025 13:04:28.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Everett'/14366, l='ServerLevel[world]', x=1280.51, y=72.20, z=158.25] died: Everett was slain by Cyclops
+[19Jan2025 13:04:32.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Salvador'/14370, l='ServerLevel[world]', x=1278.08, y=74.20, z=160.29] died: Salvador was slain by Cyclops
+[19Jan2025 13:04:33.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [My Name is Nobody]
