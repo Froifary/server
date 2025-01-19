@@ -3956,3 +3956,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Jan2025 12:40:28.416] [Server thread/INFO] [tombstone/]: The player Froi07 has successfully been saved
 [19Jan2025 12:40:38.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Teleported Froi07 to 971.500000, -13.000000, -163.500000]
 [19Jan2025 12:40:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has reached the goal [This Belongs in a Museum]
+[19Jan2025 12:46:59.358] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GoblinTrader['Claud'/8392, l='ServerLevel[world]', x=956.83, y=-16.00, z=-171.53] died: Claud tried to swim in lava
+[19Jan2025 12:48:22.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Teleported Froi07 to 949.500000, 190.000000, -178.500000]
+[19Jan2025 12:52:23.379] [pool-11-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_beach], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / blue_skies:village_brightlands], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_rustic], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies]] from pos BlockPos{x=1637, y=72, z=-619}
+[19Jan2025 12:53:32.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 was energized by Lightning Dragon
+[19Jan2025 12:53:32.722] [Server thread/INFO] [tombstone/]: The player Froi07 has successfully been saved
+[19Jan2025 12:53:38.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Set own game mode to Creative Mode]
+[19Jan2025 12:53:51.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Teleported Froi07 to 1562.500000, 77.000000, -537.500000]
+[19Jan2025 12:53:52.017] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/12095, l='ServerLevel[world]', x=1520.56, y=25.32, z=-556.38, removed=DISCARDED]
+[19Jan2025 12:54:30.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Dragonslayer]
