@@ -3939,3 +3939,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Jan2025 12:19:44.756] [Server thread/INFO] [tombstone/]: The player Froi07 has successfully been saved
 [19Jan2025 12:20:29.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Teleported Froi07 to 928.500000, 49.000000, -203.500000]
 [19Jan2025 12:20:44.499] [Server thread/INFO] [TerraBlenderFix/]: Optimizing surface rules
+[19Jan2025 12:23:23.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Acquire Hardware]
+[19Jan2025 12:24:04.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Isn't It Iron Pick]
+[19Jan2025 12:24:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Froi07 has made the advancement [Suit Up]
+[19Jan2025 12:30:46.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Froi07: Gave 3000 experience points to Froi07]
